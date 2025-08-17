@@ -1,4 +1,5 @@
-**********  Project Learning ***************
+**********  Project Learning *************
+
 A hands-on React project covering:
 
 Tailwind CSS configure (Vite + React)
